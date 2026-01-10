@@ -1,2 +1,2 @@
 # ICore_Waffensafty
-Adds fire modes to the weapons of your choice, as well as more realistic reloads (including disabling automatic reloads), consistent flashlights (stay turned on even when weapon is not being aimed), more blood when injured, and limping after being injured.
+Fügt den Waffen Ihrer Wahl Feuermodi hinzu, sowie realistischere Nachladevorgänge (einschließlich der Deaktivierung des automatischen Nachladens), konstante Taschenlampen (bleiben auch dann an, wenn die Waffe nicht anvisiert wird), mehr Blut bei Verletzungen und Hinken nach einer Verletzung.
